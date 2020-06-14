@@ -7,6 +7,7 @@ L'objectif de cete activité est de réaliser à l'aide d'un nanoordinateur (Car
 
 
 2. Les pré-requis
+
 Les notions ci-dessous, vues en SNT (seconde),  sont des préalables  pour pouvoir suivre ce cours.
 
         Informatique embarquée
