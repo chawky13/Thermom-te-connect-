@@ -1,4 +1,4 @@
-# Thermom-te-connect-
+# Thermomètre connecté
 1. Comment réaliser un thermomètre connecté ?
 
 Aujourd'hui, de nombreux objets de notre environnement  (voitures, vélos, robots, drones, etc.) Intègrent un Système Informatique dit Embarqué (SIE). Grâce aux technologies de l'internet, ils sont de plus en plus connectés. D'où la notion d'Internet des Objets (IOT Internet Of Things) 
